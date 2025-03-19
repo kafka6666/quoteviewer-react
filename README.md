@@ -79,7 +79,7 @@ The compiled files will be available in the `dist` directory.
 
 Check out the live version of QuoteViewer deployed on Vercel:
 
-[QuoteViewer Live Demo](paste your link here) 
+[QuoteViewer Live Demo](https://quoteviewer-react.vercel.app/) 
 
 ## Troubleshooting
 

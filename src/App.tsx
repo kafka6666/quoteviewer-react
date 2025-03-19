@@ -11,7 +11,7 @@ function App() {
 
   const handleNewQuote = () => {
     getRandomQuote();
-    getRandomBackground();
+    getRandomBackground(); // the random background image feature isn't working properly
   };
 
   return (
